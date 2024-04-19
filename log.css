@@ -1,0 +1,61 @@
+form {
+    border: 3px solid #f1f1f1;
+  }
+  
+ /* Style des Inputs */
+
+input[type=text], input[type=password] {
+  width: 97%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 2px solid black;
+  box-sizing: 100px;
+  box-shadow:  2px 2px 2px 1px black;
+  font-weight: bolder;
+}
+
+  /* Style du boutton */
+button {
+  background-color: #8A2BE2;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: 3px solid black;
+  cursor: pointer;
+  width: 100%;
+  box-shadow:  5px 5px 5px 1px black;
+
+}
+  
+  /* Centrer l'image dans le container */
+  .imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+  }
+  
+  /* Avatar image */
+  .avatar {
+    width: 15%;
+    border-radius: 40%;
+  }
+  
+ 
+  /* "Forgot password"  */
+  .psw {
+    float: center;
+    padding-top: 160px;
+  }
+  
+
+/* Ajouter padding au container */
+.container {
+  padding: 10px;
+}
+
+
+/* Ajouter un margin-left */
+
+.psw {
+  margin-left: 555px;
+}
